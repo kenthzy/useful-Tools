@@ -7,3 +7,6 @@ https://www.remotion.dev/
 
 ### Google Fonts
 https://fonts.google.com/
+
+### Coolors
+https://coolors.co/
